@@ -1,1 +1,1 @@
-# Inferential statistical Analysis of Fifa and Mobile_Network dataset Hypothesis testing on datasets
+# Inferential statistical Analysis & Exploratory Data analysis of Fifa and Mobile_Network dataset (Hypothesis testing)
