@@ -9,4 +9,6 @@
 
 ## Outcomes -
 - Getting ability to transform a given problem to Hypothesis to make inference
-- Understanding the applicability of Hypothesis testing
+- Understanding the need & applicability of Hypothesis testing
+- Assumptions before testing hypothesis
+- Formulation of Hypothesis
