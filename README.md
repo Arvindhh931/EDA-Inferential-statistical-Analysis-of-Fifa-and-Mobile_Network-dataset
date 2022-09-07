@@ -11,4 +11,5 @@
 - Getting ability to transform a given problem to Hypothesis to make inference
 - Understanding the need & applicability of Hypothesis testing
 - Assumptions before testing hypothesis
-- Formulation of Hypothesis
+- Formulation of Hypothesis 
+- Sampling distribution, Standard Error, Confidence Interval, ANNOVA, KRUSKAL-WALLIS, T-tests, Chi-square test.
